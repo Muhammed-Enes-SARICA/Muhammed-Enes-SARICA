@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-enes-SARICA&" alt="muhammed-enes-SARICA" /></p>
 
-![snake gif](https://github.com/muhammed-enes-SARICA/muhammed-enes-SARICA/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Muhammed-Enes-SARICA/Muhammed-Enes-SARICA/blob/output/github-contribution-grid-snake.gif)
