@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-enes-SARICA&show_icons=true&locale=en" alt="muhammed-enes-SARICA" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-enes-SARICA&" alt="muhammed-enes-SARICA" /></p>
+
+![snake gif](https://github.com/muhammed-enes-SARICA/muhammed-enes-SARICA/blob/output/github-contribution-grid-snake.gif)
